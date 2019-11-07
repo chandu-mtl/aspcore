@@ -1,0 +1,34 @@
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\bin\Debug\netcoreapp2.1\asp.net core web app.deps.json
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\bin\Debug\netcoreapp2.1\asp.net core web app.runtimeconfig.json
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\bin\Debug\netcoreapp2.1\asp.net core web app.runtimeconfig.dev.json
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\bin\Debug\netcoreapp2.1\asp.net core web app.dll
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\bin\Debug\netcoreapp2.1\asp.net core web app.pdb
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\bin\Debug\netcoreapp2.1\asp.net core web app.Views.dll
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\bin\Debug\netcoreapp2.1\asp.net core web app.Views.pdb
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\asp.net core web app.csprojAssemblyReference.cache
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\asp.net core web app.RazorAssemblyInfo.cache
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\asp.net core web app.RazorAssemblyInfo.cs
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\asp.net core web app.AssemblyInfoInputs.cache
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\asp.net core web app.AssemblyInfo.cs
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\asp.net core web app.TagHelpers.input.cache
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\asp.net core web app.TagHelpers.output.cache
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\asp.net core web app.RazorCoreGenerate.cache
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\asp.net core web app.RazorTargetAssemblyInfo.cache
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\asp.net core web app.RazorTargetAssemblyInfo.cs
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\asp.net core web app.Views.pdb
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\asp.net core web app.dll
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\asp.net core web app.pdb
+C:\Users\chandu\source\repos\asp.net core web app\asp.net core web app\obj\Debug\netcoreapp2.1\asp.net core web app.csproj.CopyComplete
